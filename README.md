@@ -1,3 +1,5 @@
+**简体中文** | [English](README_EN.md)
+
 # ChatGPT Windows MSIX 一键更新脚本
 
 适用于无法正常使用 Microsoft Store 的 Windows 电脑。脚本会根据 ChatGPT 的 Microsoft Store 商品链接解析最新安装包，自动选择主 `x64 .msix`，下载到当前用户的 `Downloads` 文件夹，完成校验后安装或更新。
