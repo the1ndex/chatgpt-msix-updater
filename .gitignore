@@ -1,0 +1,15 @@
+# Downloaded packages and partial files
+*.msix
+*.msixbundle
+*.appx
+*.appxbundle
+*.partial
+
+# Logs and local scratch files
+*.log
+*.tmp
+.scratch/
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
